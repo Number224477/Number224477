@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning how to code
 - 📫 How to reach my Email: malikijohnson31@gmail.com
 Number224477/Number224477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
